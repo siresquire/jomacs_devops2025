@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 We love Git
 We hate Git
+=======
+>>>>>>> parent of 30cd270 (added text to jomacs.txt)
